@@ -3,7 +3,8 @@
 The Employee Insights Dashboard is an interactive Power BI project designed to analyze employee information and provide insights into workforce demographics, salary distribution, hiring trends, and employee indicators.
 The dashboard helps users understand employee distribution and monitor important workforce KPIs.
 ## Dashboard Preview
-![Employee Insights Dashboard](Screenshots/Employee_Insights_Dashboard.png)
+
+![Employee Insights Dashboard](Overview%20of%20Dasboard.png)
 ## Key Features
 - Employment Type Analysis – Full-time, Part-time, and Contract employees.
 - Age Group Analysis – Employee distribution by age.
